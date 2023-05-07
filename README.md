@@ -1,4 +1,4 @@
-# Object Methods in JS Lab
+# Object Methods in JS Lab c
 
 ## Learning Goals
 
